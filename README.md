@@ -1,0 +1,5 @@
+- Hi, I’m Koby Bracekbusch
+- In this repository are all of my school projects.
+- You can reach me by email at koby@goodcode.net
+- You can also reach me by phone at 206-788-6093
+- Thank you for checking out my projects!
