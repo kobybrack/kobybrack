@@ -1,6 +1,7 @@
 - Hi, I’m Koby Bracekbusch
 - To prevent cheating, my school_projects repository is private. 
-- I can't give out perfect score answers. Contact me for access.
+- I can't give out perfect-score answers to the public. 
+- Please contact me for access.
 - You can reach me by email at koby@goodcode.net
 - You can also reach me by phone at 206-788-6093
 - Thank you for checking out my projects!
